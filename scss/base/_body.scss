@@ -1,0 +1,33 @@
+@import "bourbon";
+
+body {
+	background-color: $color-primary;
+}
+
+.background {
+	background: $color-tertiary-light;
+	box-shadow: 0px 0px 10px rgba(0,0,0,0.3);
+}
+
+main {
+	background-color: white;
+	padding: $padding-general;
+	box-shadow: 0 0 10px rgba(0,0,0,0.3);
+}
+
+@font-face {
+	font-family: 'Zapf';
+    src: url(../fonts/zapfhumanist.ttf);
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+	font-family: 'Zapf_i';
+    src: url(../fonts/zapfhumanist_i.ttf);
+    font-weight: normal;
+    font-style: normal;
+}
+
+hr {
+    border-top: $border-brand;
+}

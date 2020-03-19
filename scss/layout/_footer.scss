@@ -1,0 +1,19 @@
+footer {
+	padding: 0;
+	padding-bottom: $padding-general;
+}
+
+.footer-border {
+	padding-top: $padding-small;
+	margin-top: $margin-small;
+}
+
+footer {
+	& section.rep {
+		padding-left: $padding-general * 2;
+		padding-top: $padding-small;
+		padding-bottom: $padding-small;
+		margin-bottom: 0;
+		background: url(../images/ap-rep-logo.svg) no-repeat left; 
+	}
+}

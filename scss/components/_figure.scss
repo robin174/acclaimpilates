@@ -1,0 +1,12 @@
+figure {
+	margin-bottom: $margin-small;
+	&.white img {
+		border: 5px solid #fff;
+		box-shadow: 0 0 5px rgba(0,0,0,0.4);
+	}
+}
+
+figcaption {
+	font-size: 70%;
+	padding-top: 5px;
+}

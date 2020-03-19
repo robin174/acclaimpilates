@@ -1,0 +1,20 @@
+$font-ap: 'Zapf', serif;
+$font-ap-italic: 'Zapf_i', serif;
+$font-sans: Arial, Helvetica, sans-serif;
+$letter-spacing: 0.1em;
+
+$color-primary: #C7DF8E; // Lime Green
+$color-primary-dark: darken($color-primary, 10%);
+$color-secondary: #A21983; // Raspberry
+$color-tertiary: #54514F; // Grey
+$color-tertiary-light: lighten($color-tertiary, 65%);
+
+// Padding/Margin 
+$padding-small: 25px;
+$padding-general: 50px;
+
+$margin-small: 25px;
+$margin-general: 50px;
+
+// Borders
+$border-brand: 2px solid $color-primary;
