@@ -38,7 +38,7 @@ get_header(); ?>
 						<p class="price" style="margin-bottom: 5px; font-size: 150%;">New Classes for Autumn 2018</p>
 							<p style="font-size: 110%;"><strong>Beginners - Wednesdays 10am &amp; 7pm<br>
 							Pilates Barre - Mondays 8pm, and Wednesdays 9.15am</strong></p>
-							<p><a href="https://www.acclaimpilates.co.uk/group-classes/"><strong>Find out more on our Group Classes page</strong></a></p>
+							<p><a href="https://www.acclaimpilates.co.uk/group-classes/"><strong>Find out more on our Group Classes page.</strong></a></p>
 					</div>
 				</div>
 
