@@ -1,3 +1,18 @@
+.top-bar {
+	position: relative;
+	z-index: 20;
+	box-shadow: 0 0 10px rgba(0,0,0,0.3);
+}
 .top-bar, .top-bar ul {
-	background-color: #54514F;
+	background-color: $color-primary-dark;
+}
+
+.menu .button, .menu a {
+	color: white;
+	font-weight: bold;
+}
+
+.menu .active > a, .menu .is-active > a {
+	color: #fff;
+	background-color: $color-secondary;
 }
