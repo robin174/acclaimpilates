@@ -10,7 +10,7 @@
 					
 				<footer class="footer" role="contentinfo">
 					<div class="grid-container">
-						<div class="grid-x grid-margin-x">
+						<div class="grid-x">
 							<div class="cell small-12 medium-8 large-8">
 								<section class="rep">
 									Virginia McGowan-Brown is a recognised<br>

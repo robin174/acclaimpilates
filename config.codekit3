@@ -9,28 +9,12 @@
 	],
 "creatorBuild": "31934",
 "files": {
-	"/.gitignore": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/.gitignore",
-		"oF": 0
-		},
 	"/404.php": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
 		"oAP": "/404.php",
-		"oF": 0
-		},
-	"/_notes/dwsync.xml": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/_notes/dwsync.xml",
 		"oF": 0
 		},
 	"/archive.php": {
@@ -1287,6 +1271,32 @@
 		"oS": 0,
 		"uL": 1
 		},
+	"/scss/layout/_main.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "/scss/css/_main.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"/scss/layout/_nav.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "/scss/css/_nav.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
 	"/scss/layout/_notes/dwsync.xml": {
 		"cB": 0,
 		"ft": 8192,
@@ -1398,49 +1408,6 @@
 		"oA": 0,
 		"oAP": "/template-full-width.php",
 		"oF": 0
-		},
-	"/void/_notes/dwsync.xml": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/void/_notes/dwsync.xml",
-		"oF": 0
-		},
-	"/void/gulpfile.js": {
-		"bF": 0,
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "/void/gulpfile-min.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
-		},
-	"/void/package-lock.json": {
-		"ft": 524288,
-		"oA": 1,
-		"oAP": "/void/package-lock-min.json",
-		"oF": 0,
-		"oO": 0,
-		"oS": 1
-		},
-	"/void/package.json": {
-		"ft": 524288,
-		"oA": 1,
-		"oAP": "/void/package-min.json",
-		"oF": 0,
-		"oO": 0,
-		"oS": 1
-		},
-	"/void/yarn.lock": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/void/yarn.lock",
-		"oF": 0
 		}
 	},
 "hooks": [
@@ -1449,8 +1416,8 @@
 	},
 "projectAttributes": {
 	"creationDate": 605712879.49466002,
-	"displayValue": "acclaimpilates",
-	"displayValueWasSetByUser": 0,
+	"displayValue": "acclaimpilates - local",
+	"displayValueWasSetByUser": 1,
 	"iconImageName": "brackets-silver",
 	"iconImageWasSetByUser": 0
 	},

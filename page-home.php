@@ -43,12 +43,6 @@ get_header(); ?>
 				</div>
 
 				<div class="grid-x grid-margin-x">
-					<div class="cell small-12 medium-12 large-12">
-						<hr>
-					</div>
-				</div>
-
-				<div class="grid-x grid-margin-x">
 					<?php if( have_rows('home_core_benefits') ): ?><!-- Parent repeater -->
 						<?php while( have_rows('home_core_benefits') ): the_row(); ?>
 							<div class="cell small-12 medium-4 large-4">
